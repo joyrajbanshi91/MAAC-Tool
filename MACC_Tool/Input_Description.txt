@@ -1,0 +1,7 @@
+Initial_Capital = Your First Year Cost of the Intervention
+Operating Cost = Running Cost for your Intervention
+Annual Savings = How much the intervention saves annually
+Annual_Pay = The amount you need to pay for a certain years
+Annual_Finance_Period = For how many years you need to pay the annual cost
+Project Duration= Years of the project
+Annual Emission Reduction = tCO2
